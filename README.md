@@ -6,15 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=3200&pause=900&color=8B93A7&center=true&vCenter=true&width=650&lines=Training+autonomous+agents+and+structuring+full+stack+platforms;Deploying+zero-trust+security+frameworks;Google+Cybersecurity+Professional+Certificate+%C2%B7+SOFTEC'26" alt="tagline"/>
 
-<br/><br/>
-
-<a href="https://dreamsfromdust.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B24?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://img.shields.io/badge/LinkedIn-161B24?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:areejafzal056@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
 </div>
 
 <br/>
@@ -189,7 +180,5 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 <a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=white" /></a>
 
 <br/><br/>
-
-<img src="assets/footer.svg" width="100%"/>
 
 </div>
