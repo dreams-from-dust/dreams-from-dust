@@ -10,12 +10,10 @@
 
 <a href="https://dreamsfromdust.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B24?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>&nbsp;
 <a href="https://linkedin.com/in/areej-fatima-it"><img src="https://img.shields.io/badge/LinkedIn-161B24?style=flat-square&logo=linkedin&logoColor=FFFFFF" /></a>&nbsp;
-<a href="mailto:dreamsfromdust01@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=FFFFFF" /></a>&nbsp;
+<a href="mailto:areejafzal056@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=FFFFFF" /></a>&nbsp;
 <a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
 
 <br/><br/>
-
-<img src="assets/kpi-strip.svg" width="100%"/>
 
 </div>
 
@@ -29,16 +27,16 @@
 <tr>
 <td width="60%" valign="top">
 
-**Location**  — Layyah, Punjab, Pakistan
-**Education**  — BS Information Technology, University of Layyah (2023 – 2027)
-**Academic Standing**  — CGPA 3.93 / 4.00 · 84% Aggregate
-**Recognition**  — Competitor, SOFTEC'26 Software Project Competition
-**Membership**  — AWS Student Builder Groups
+**Location:** Layyah, Punjab, Pakistan <br>
+**Education:** BS Information Technology, University of Layyah (2023 to 2027) <br>
+**Academic Standing:** CGPA 3.93 / 4.00 · 84% Aggregate <br>
+**Recognition:** Competitor, SOFTEC'26 Software Project Competition <br>
+**Membership:** AWS Student Builder Groups
 
 </td>
 <td width="40%" valign="top">
 
-Innovative IT undergraduate specializing in intelligent, secure software systems — spanning reinforcement-learning agents, full-stack platforms, and zero-trust security architecture.
+Innovative IT undergraduate specializing in intelligent, secure software systems, spanning reinforcement-learning agents, full-stack platforms, and zero-trust security architecture.
 
 </td>
 </tr>
@@ -95,7 +93,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 </tr>
 <tr>
 <td valign="top"><strong>WONTX AI</strong><br/><sub>Behavioral Biometric Authentication</sub></td>
-<td valign="top">Autonomous desktop tool using a Q-Learning agent to track real-time input rhythm — mouse velocity, jitter, key dwell/flight time — locking the workstation on intruder detection.</td>
+<td valign="top">Autonomous desktop tool using a Q-Learning agent to track real-time input rhythm (mouse velocity, jitter, key dwell/flight time), locking the workstation on intruder detection.</td>
 <td valign="top">Python · Pynput · NumPy · Pandas · CustomTkinter</td>
 </tr>
 <tr>
@@ -129,17 +127,17 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 </tr>
 <tr><td>Google Cybersecurity Professional Certificate</td><td>Google / Coursera</td></tr>
 <tr><td>Foundations of Cybersecurity</td><td>Google / Coursera</td></tr>
-<tr><td>Play It Safe — Manage Security Risks</td><td>Google / Coursera</td></tr>
-<tr><td>Connect &amp; Protect — Networks &amp; Network Security</td><td>Google / Coursera</td></tr>
-<tr><td>Tools of the Trade — Linux &amp; SQL</td><td>Google / Coursera</td></tr>
+<tr><td>Play It Safe: Manage Security Risks</td><td>Google / Coursera</td></tr>
+<tr><td>Connect &amp; Protect: Networks &amp; Network Security</td><td>Google / Coursera</td></tr>
+<tr><td>Tools of the Trade: Linux &amp; SQL</td><td>Google / Coursera</td></tr>
 <tr><td>Assets, Threats &amp; Vulnerabilities</td><td>Google / Coursera</td></tr>
 <tr><td>Automate Cybersecurity Tasks with Python</td><td>Google / Coursera</td></tr>
-<tr><td>Sound the Alarm — Detection and Response</td><td>Google / Coursera</td></tr>
-<tr><td>Put It to Work — Prepare for Cybersecurity Jobs</td><td>Google / Coursera</td></tr>
+<tr><td>Sound the Alarm: Detection and Response</td><td>Google / Coursera</td></tr>
+<tr><td>Put It to Work: Prepare for Cybersecurity Jobs</td><td>Google / Coursera</td></tr>
 <tr><td>Cybersecurity Job Simulation</td><td>Mastercard</td></tr>
 <tr><td>Advanced Commands in Linux</td><td>Coursera</td></tr>
 <tr><td>Files &amp; Directories in Linux Filesystem</td><td>Coursera</td></tr>
-<tr><td>AI Fundamentals</td><td>Futurepedia</td></tr>
+<tr><td>AI Fundamentals</td><td>Coursera</td></tr>
 <tr><td>14-Day AI Bootcamp</td><td>Futurepedia</td></tr>
 <tr><td>Accelerate Your Job Search with AI</td><td>Coursera</td></tr>
 <tr><td>SEO Certificate</td><td>DigiSkills.pk, Ministry of IT</td></tr>
@@ -176,7 +174,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 </div>
 
-<sub align="center">Snake graph populates once `.github/workflows/snake.yml` runs inside the profile repository — a repository named exactly `dreams-from-dust`.</sub>
+<sub align="center">Snake graph populates once `.github/workflows/snake.yml` runs inside the profile repository, a repository named exactly `dreams-from-dust`.</sub>
 
 <br/><br/>
 
