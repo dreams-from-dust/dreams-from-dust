@@ -187,13 +187,12 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <div align="center">
 
-<a href="https://dreamsfromdust.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" alt="Portfolio"/></a>
+<a href="https://dreamsfromdust.netlify.app/"><img src="assests/dreamsfromdust.svg" width="45" alt="Portfolio"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:dreamsfromdust01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/dreams-from-dust"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub"/></a>
 
 <br/><br/>
 
