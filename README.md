@@ -19,7 +19,7 @@
 <td width="55%" valign="top">
 
 **Location:** Layyah, Punjab, Pakistan <br>
-**Education:** BS Information Technology, University of Layyah (2023 to 2027) <br>
+**Education:** BS Information Technology, University of Layyah <br>
 **Academic Standing:** CGPA 3.93 / 4.00 · 84% Aggregate <br>
 **Recognition:** Competitor, SOFTEC'26 Software Project Competition <br>
 **Membership:** AWS Student Builder Groups
