@@ -157,20 +157,16 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dreams-from-dust&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=1&column=7" />
+<br/>
+
+<img src="https://api.iconify.design/logos:google-cloud.svg" width="45" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 25px; font-weight: 600; color: #00FFD2; letter-spacing: 0.5px;">Google Cybersecurity Certificate</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/flat-color-icons:approval.svg" width="45" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 25px; font-weight: 600; color: #5B6EF5; letter-spacing: 0.5px;">Softec'26 Competitor</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://api.iconify.design/logos:git-icon.svg" width="45" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 25px; font-weight: 600; color: #8B93A7; letter-spacing: 0.5px;">240+ Contributions</span>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dreams-from-dust&bg_color=10141F&color=5B6EF5&line=5B6EF5&point=F4F6FB&area=true&hide_border=true&title_color=F4F6FB" width="100%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dreams-from-dust&show_icons=true&hide_border=true&bg_color=10141F&title_color=F4F6FB&icon_color=5B6EF5&text_color=8B93A7&border_color=1B2230&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dreams-from-dust&hide_border=true&background=10141F&ring=5B6EF5&fire=5B6EF5&currStreakLabel=F4F6FB&sideNums=F4F6FB&sideLabels=8B93A7&dates=8B93A7&stroke=1B2230" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&border_color=1B2230" height="170"/>
+<!-- Premium Developer Metrics Dashboard -->
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dreams-from-dust&show_icons=true&hide_border=true&bg_color=10141F&title_color=F4F6FB&icon_color=5B6EF5&text_color=8B93A7&count_private=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=dreams-from-dust&hide_border=true&background=10141F&ring=5B6EF5&fire=5B6EF5&currStreakLabel=F4F6FB&currStreakNum=F4F6FB&sideNums=F4F6FB&sideLabels=8B93A7&dates=8B93A7" height="180"/>
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7" height="180"/>
 
 <br/><br/>
 
@@ -187,7 +183,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <div align="center">
 
-<a href="https://dreamsfromdust.netlify.app/"><img src="assests/dreamsfromdust.svg" width="45" alt="Portfolio"/></a>
+<a href="https://dreamsfromdust.netlify.app/"><img src="assets/dreamsfromdust.svg" width="45" alt="Portfolio"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
