@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 **Location:** Layyah, Punjab, Pakistan <br>
 **Education:** BS Information Technology, University of Layyah (2023 to 2027) <br>
