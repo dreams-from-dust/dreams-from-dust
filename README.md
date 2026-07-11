@@ -96,36 +96,6 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <br/>
 
-<!-- FIXED: explicit 2x2 table forces two cards per row on every screen size, with border frames -->
-<table width="100%">
-<tr>
-<td width="50%" align="center" style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;">
-<a href="https://github.com/dreams-from-dust/AI_model_wontx">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=AI_model_wontx&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" width="100%" alt="AI_model_wontx" />
-</a>
-</td>
-<td width="50%" align="center" style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;">
-<a href="https://github.com/dreams-from-dust/TunePrompt-Project">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=TunePrompt-Project&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" width="100%" alt="TunePrompt-Project" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;">
-<a href="https://github.com/dreams-from-dust/cybersecurity-portfolio">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=cybersecurity-portfolio&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" width="100%" alt="cybersecurity-portfolio" />
-</a>
-</td>
-<td width="50%" align="center" style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;">
-<a href="https://github.com/dreams-from-dust/command-layer-framework">
-<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=command-layer-framework&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" width="100%" alt="command-layer-framework" />
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
-
 <img src="assets/header-certifications.svg" width="100%"/>
 
 <br/>
@@ -209,9 +179,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 <table>
 <tr>
 <td align="center" style="border: 1px solid rgba(91,110,245,0.35); border-radius: 12px; padding: 12px 20px;"><a href="https://dreamsfromdust.netlify.app/"><img src="assets/dreamsfromdust.svg" width="45" alt="Portfolio"/></a></td>
-<td width="20"></td>
 <td align="center" style="border: 1px solid rgba(91,110,245,0.35); border-radius: 12px; padding: 12px 20px;"><a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a></td>
-<td width="20"></td>
 <td align="center" style="border: 1px solid rgba(91,110,245,0.35); border-radius: 12px; padding: 12px 20px;"><a href="mailto:dreamsfromdust01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/></a></td>
 </tr>
 </table>
