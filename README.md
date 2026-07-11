@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=8B93A7&center=true&vCenter=true&width=650&lines=Training+autonomous+agents+and+structuring+full+stack+platforms;Deploying+zero-trust+security+frameworks;Google+Cybersecurity+Professional+Certificate+%C2%B7+SOFTEC'26" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=8B93A7&center=true&vCenter=true&width=650&lines=Training+autonomous+agents+and+structuring+full+stack+platforms;Deploying+zero+trust+security+frameworks;Google+Cybersecurity+Professional+Certificate+and+SOFTEC'26" alt="tagline"/>
 
 </div>
 
