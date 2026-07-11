@@ -8,10 +8,10 @@
 
 <br/><br/>
 
-<a href="https://dreamsfromdust.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B24?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>&nbsp;
-<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://img.shields.io/badge/LinkedIn-161B24?style=flat-square&logo=linkedin&logoColor=FFFFFF" /></a>&nbsp;
-<a href="mailto:areejafzal056@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=FFFFFF" /></a>&nbsp;
-<a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://dreamsfromdust.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B24?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://img.shields.io/badge/LinkedIn-161B24?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:areejafzal056@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -174,7 +174,6 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 </div>
 
-<sub align="center">Snake graph populates once `.github/workflows/snake.yml` runs inside the profile repository, a repository named exactly `dreams-from-dust`.</sub>
 
 <br/><br/>
 
@@ -184,10 +183,10 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <div align="center">
 
-<a href="https://dreamsfromdust.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B24?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>&nbsp;
-<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://img.shields.io/badge/LinkedIn-161B24?style=flat-square&logo=linkedin&logoColor=FFFFFF" /></a>&nbsp;
-<a href="mailto:dreamsfromdust01@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=FFFFFF" /></a>&nbsp;
-<a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=FFFFFF" /></a>
+<a href="https://dreamsfromdust.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B24?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://img.shields.io/badge/LinkedIn-161B24?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:dreamsfromdust01@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
