@@ -16,7 +16,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 **Location:** Layyah, Punjab, Pakistan <br>
 **Education:** BS Information Technology, University of Layyah (2023 to 2027) <br>
@@ -97,11 +97,24 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 <div align="center">
 
 <br/>
-<a href="https://github.com/dreams-from-dust/AI_model_wontx"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=AI_model_wontx&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5&border_color=1B2230" /></a>
-<a href="https://github.com/dreams-from-dust/TunePrompt-Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=TunePrompt-Project&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5&border_color=1B2230" /></a>
+
+<!-- ROW 1 -->
+<a href="https://github.com/dreams-from-dust/AI_model_wontx">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=AI_model_wontx&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" alt="AI_model_wontx" />
+</a>
+<a href="https://github.com/dreams-from-dust/TunePrompt-Project">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=TunePrompt-Project&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" alt="TunePrompt-Project" />
+</a>
+
 <br/>
-<a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=cybersecurity-portfolio&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5&border_color=1B2230" /></a>
-<a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=command-layer-framework&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5&border_color=1B2230" /></a>
+
+<!-- ROW 2 -->
+<a href="https://github.com/dreams-from-dust/cybersecurity-portfolio">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=cybersecurity-portfolio&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" alt="cybersecurity-portfolio" />
+</a>
+<a href="https://github.com/dreams-from-dust/command-layer-framework">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dreams-from-dust&repo=command-layer-framework&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7&icon_color=5B6EF5" alt="command-layer-framework" />
+</a>
 
 </div>
 
@@ -113,7 +126,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <table width="100%">
 <tr>
-<th align="left" width="55%">Credential</th>
+<th align="left" width="60%">Credential</th>
 <th align="left">Issuer</th>
 </tr>
 <tr><td>Google Cybersecurity Professional Certificate</td><td>Google / Coursera</td></tr>
@@ -174,10 +187,13 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <div align="center">
 
-<a href="https://dreamsfromdust.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-161B24?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
-<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://img.shields.io/badge/LinkedIn-161B24?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:dreamsfromdust01@gmail.com"><img src="https://img.shields.io/badge/Email-161B24?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/dreams-from-dust"><img src="https://img.shields.io/badge/GitHub-161B24?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://dreamsfromdust.netlify.app/"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="45" alt="Portfolio"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:dreamsfromdust01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/dreams-from-dust"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" alt="GitHub"/></a>
 
 <br/><br/>
 
