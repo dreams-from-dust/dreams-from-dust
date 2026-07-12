@@ -155,7 +155,6 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 <!-- FIXED: single-row 3-column table keeps stats, streak, and languages aligned on one row, with border frames -->
 <table>
 <tr>
-<td style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dreams-from-dust&show_icons=true&hide_border=true&bg_color=10141F&title_color=F4F6FB&icon_color=5B6EF5&text_color=8B93A7&count_private=true" height="180"/></td>
 <td style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;"><img src="https://streak-stats.demolab.com/?user=dreams-from-dust&hide_border=true&background=10141F&ring=5B6EF5&fire=5B6EF5&currStreakLabel=F4F6FB&currStreakNum=F4F6FB&sideNums=F4F6FB&sideLabels=8B93A7&dates=8B93A7" height="180"/></td>
 <td style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7" height="180"/></td>
 </tr>
