@@ -98,7 +98,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <p align="left" style="color:#C9B8A8;"><strong>MORE PROJECTS</strong></p>
 
-<p align="center"><a href="https://github.com/dreams-from-dust/AI-ML-Internship"><img src="assets/project-ai-ml-internship.svg" width="40%"/></a> <a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="assets/project-cybersecurity-portfolio.svg" width="40%"/></a><br/><a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="assets/project-command-layer-framework.svg" width="40%"/></a> <a href="https://github.com/dreams-from-dust/STQA-5th-Semester-Project"><img src="assets/project-stqa.svg" width="40%"/></a></p>
+<p align="center"><a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="assets/project-cybersecurity-portfolio.svg" width="40%"/></a>    <a href="https://github.com/dreams-from-dust/AI-ML-Internship"><img src="assets/project-ai-ml-internship.svg" width="40%"/></a><br/><a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="assets/project-command-layer-framework.svg" width="40%"/></a>    <a href="https://github.com/dreams-from-dust/STQA-5th-Semester-Project"><img src="assets/project-stqa.svg" width="40%"/></a></p>
 
 <br/>
 
