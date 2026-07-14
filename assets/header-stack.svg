@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1200 84" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="100%" stop-color="#FFB627"/>
+    </linearGradient>
+  </defs>
+  <rect x="14" y="24" width="40" height="10" rx="3" fill="none" stroke="url(#g)" stroke-width="2.5"/>
+  <rect x="14" y="38" width="40" height="10" rx="3" fill="none" stroke="url(#g)" stroke-width="2.5"/>
+  <rect x="14" y="52" width="40" height="10" rx="3" fill="url(#g)"/>
+  <text x="70" y="49" font-family="'Segoe UI', sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#F4EDE4">TECH STACK</text>
+  <line x1="330" y1="63" x2="1200" y2="63" stroke="url(#g)" stroke-width="1.5" stroke-linecap="round"
+        stroke-dasharray="870" stroke-dashoffset="870">
+    <animate attributeName="stroke-dashoffset" values="870;0" dur="1.4s" fill="freeze"/>
+  </line>
+</svg>

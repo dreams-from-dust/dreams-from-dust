@@ -1,0 +1,67 @@
+<svg viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a0f0a"/>
+      <stop offset="100%" stop-color="#0b0705"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#FF6B35"/>
+      <stop offset="50%" stop-color="#FFB627"/>
+      <stop offset="100%" stop-color="#FF6B35"/>
+      <animate attributeName="x1" values="-400;1200;-400" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="800;2400;800" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="emberDot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFD27A"/>
+      <stop offset="40%" stop-color="#FF8A3D"/>
+      <stop offset="100%" stop-color="#FF6B35" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bgGrad)"/>
+
+  <!-- rising embers -->
+  <circle cx="120" cy="240" r="3" fill="url(#emberDot)">
+    <animate attributeName="cy" values="240;-20" dur="7s" begin="-1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="7s" begin="-1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="240" r="2" fill="url(#emberDot)">
+    <animate attributeName="cy" values="240;-20" dur="5.5s" begin="-2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="5.5s" begin="-2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="950" cy="240" r="3" fill="url(#emberDot)">
+    <animate attributeName="cy" values="240;-20" dur="6.5s" begin="-3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="6.5s" begin="-3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="240" r="2" fill="url(#emberDot)">
+    <animate attributeName="cy" values="240;-20" dur="8s" begin="-0.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="8s" begin="-0.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="240" r="2.5" fill="url(#emberDot)">
+    <animate attributeName="cy" values="240;-20" dur="9s" begin="-4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="9s" begin="-4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1140" cy="240" r="3" fill="url(#emberDot)">
+    <animate attributeName="cy" values="240;-20" dur="6s" begin="-2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="6s" begin="-2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- title -->
+  <text x="600" y="118" text-anchor="middle" font-family="Georgia, 'Segoe UI', serif" font-size="58" font-weight="700" letter-spacing="4" fill="url(#titleGrad)" filter="url(#glow)">DREAMS FROM DUST</text>
+
+  <!-- subtitle -->
+  <text x="600" y="156" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="16" letter-spacing="3" fill="#C9B8A8">AREEJ FATIMA &#183; BUILDING SECURE DIGITAL FUTURES FROM THE GROUND UP</text>
+
+  <!-- draw-in underline -->
+  <line x1="450" y1="182" x2="750" y2="182" stroke="url(#titleGrad)" stroke-width="2" stroke-linecap="round"
+        stroke-dasharray="300" stroke-dashoffset="300">
+    <animate attributeName="stroke-dashoffset" values="300;0" dur="1.6s" fill="freeze"/>
+  </line>
+</svg>
