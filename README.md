@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=8B93A7&center=true&vCenter=true&width=650&lines=Training+autonomous+agents+and+structuring+full+stack+platforms;Deploying+zero+trust+security+frameworks;Google+Cybersecurity+Professional+Certificate+and+SOFTEC'26" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=FFB627&center=true&vCenter=true&width=650&lines=Training+autonomous+agents+and+structuring+full+stack+platforms;Deploying+zero+trust+security+frameworks;Google+Cybersecurity+Professional+Certificate+and+SOFTEC'26" alt="tagline"/>
 
 </div>
 
@@ -96,6 +96,12 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <br/>
 
+<p align="left" style="color:#C9B8A8;"><strong>MORE PROJECTS</strong></p>
+
+<p align="center"><a href="https://github.com/dreams-from-dust/AI-ML-Internship"><img src="assets/project-ai-ml-internship.svg" width="32%"/></a> <a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="assets/project-cybersecurity-portfolio.svg" width="32%"/></a><br/><a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="assets/project-command-layer-framework.svg" width="32%"/></a> <a href="https://github.com/dreams-from-dust/STQA-5th-Semester-Project"><img src="assets/project-stqa.svg" width="32%"/></a></p>
+
+<br/>
+
 <img src="assets/header-certifications.svg" width="100%"/>
 
 <br/>
@@ -135,28 +141,26 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <br/>
 
-<!-- FIXED: single-row 3-column table forces badges onto one line, with border frames -->
 <table>
 <tr>
-<td align="center" style="border: 1px solid rgba(0,255,210,0.35); border-radius: 10px; padding: 10px 18px;">
-<img src="https://api.iconify.design/logos:google-cloud.svg" width="30" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 15px; font-weight: 600; color: #00FFD2; letter-spacing: 0.5px;">Google Cybersecurity Certificate</span>
+<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 10px; padding: 10px 18px;">
+<img src="https://api.iconify.design/logos:google-cloud.svg" width="30" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 15px; font-weight: 600; color: #FF6B35; letter-spacing: 0.5px;">Google Cybersecurity Certificate</span>
 </td>
-<td align="center" style="border: 1px solid rgba(91,110,245,0.35); border-radius: 10px; padding: 10px 18px;">
-<img src="https://api.iconify.design/flat-color-icons:approval.svg" width="30" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 15px; font-weight: 600; color: #5B6EF5; letter-spacing: 0.5px;">Softec'26 Competitor</span>
+<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 10px; padding: 10px 18px;">
+<img src="https://api.iconify.design/flat-color-icons:approval.svg" width="30" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 15px; font-weight: 600; color: #FF6B35; letter-spacing: 0.5px;">Softec'26 Competitor</span>
 </td>
-<td align="center" style="border: 1px solid rgba(139,147,167,0.35); border-radius: 10px; padding: 10px 18px;">
-<img src="https://api.iconify.design/logos:git-icon.svg" width="30" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 15px; font-weight: 600; color: #8B93A7; letter-spacing: 0.5px;">240+ Contributions</span>
+<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 10px; padding: 10px 18px;">
+<img src="https://api.iconify.design/logos:git-icon.svg" width="30" valign="middle"/> &nbsp; <span style="font-family: 'Poppins', sans-serif; font-size: 15px; font-weight: 600; color: #FF6B35; letter-spacing: 0.5px;">240+ Contributions</span>
 </td>
 </tr>
 </table>
 
 <br/><br/>
 
-<!-- FIXED: single-row 3-column table keeps stats, streak, and languages aligned on one row, with border frames -->
 <table>
 <tr>
-<td style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;"><img src="https://streak-stats.demolab.com/?user=dreams-from-dust&hide_border=true&background=10141F&ring=5B6EF5&fire=5B6EF5&currStreakLabel=F4F6FB&currStreakNum=F4F6FB&sideNums=F4F6FB&sideLabels=8B93A7&dates=8B93A7" height="180"/></td>
-<td style="border: 1px solid rgba(91,110,245,0.3); border-radius: 12px; padding: 6px;"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=10141F&title_color=F4F6FB&text_color=8B93A7" height="180"/></td>
+<td style="border: 1px solid rgba(255,107,53,0.35); border-radius: 12px; padding: 6px;"><img src="https://streak-stats.demolab.com/?user=dreams-from-dust&hide_border=true&background=140D08&ring=FF6B35&fire=FFB627&currStreakLabel=F4F6FB&currStreakNum=FFB627&sideNums=F4F6FB&sideLabels=C9B8A8&dates=C9B8A8" height="180"/></td>
+<td style="border: 1px solid rgba(255,107,53,0.35); border-radius: 12px; padding: 6px;"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=140D08&title_color=FFB627&text_color=EDE2D6" height="180"/></td>
 </tr>
 </table>
 
@@ -174,12 +178,11 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <div align="center">
 
-<!-- FIXED: single-row table keeps all three icons on one line, with border frames -->
 <table>
 <tr>
-<td align="center" style="border: 1px solid rgba(91,110,245,0.35); border-radius: 12px; padding: 12px 20px;"><a href="https://dreamsfromdust.netlify.app/"><img src="assets/dreamsfromdust.svg" width="45" alt="Portfolio"/></a></td>
-<td align="center" style="border: 1px solid rgba(91,110,245,0.35); border-radius: 12px; padding: 12px 20px;"><a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a></td>
-<td align="center" style="border: 1px solid rgba(91,110,245,0.35); border-radius: 12px; padding: 12px 20px;"><a href="mailto:dreamsfromdust01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/></a></td>
+<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 12px; padding: 12px 20px;"><a href="https://dreamsfromdust.netlify.app/"><img src="assets/dreamsfromdust.svg" width="45" alt="Portfolio"/></a></td>
+<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 12px; padding: 12px 20px;"><a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a></td>
+<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 12px; padding: 12px 20px;"><a href="mailto:dreamsfromdust01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/></a></td>
 </tr>
 </table>
 
