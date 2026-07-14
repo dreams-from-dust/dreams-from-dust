@@ -5,13 +5,13 @@
       <stop offset="100%" stop-color="#FFB627"/>
     </linearGradient>
   </defs>
-  <g transform="translate(-12,-16) scale(1.7)">
+  <g transform="translate(4.2,-1) scale(1.2)">
     <circle cx="34" cy="32" r="16" fill="none" stroke="url(#g)" stroke-width="2.5"/>
     <path d="M27 44 l-8 20 l11 -5 l4 8 l7 -20" fill="url(#g)"/>
   </g>
-  <text x="130" y="64" font-family="'Segoe UI', sans-serif" font-size="48" font-weight="700" letter-spacing="4" fill="#F4EDE4">CERTIFICATIONS</text>
-  <line x1="660" y1="92" x2="1200" y2="92" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round"
-        stroke-dasharray="540" stroke-dashoffset="540">
-    <animate attributeName="stroke-dashoffset" values="540;0" dur="1.4s" fill="freeze"/>
+  <text x="115" y="64" font-family="'Segoe UI', sans-serif" font-size="48" font-weight="700" letter-spacing="4" fill="#F4EDE4">CERTIFICATIONS</text>
+  <line x1="645" y1="92" x2="1200" y2="92" stroke="url(#g)" stroke-width="2.2" stroke-linecap="round"
+        stroke-dasharray="555" stroke-dashoffset="555">
+    <animate attributeName="stroke-dashoffset" values="555;0" dur="1.4s" fill="freeze"/>
   </line>
 </svg>
