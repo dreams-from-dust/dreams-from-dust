@@ -98,7 +98,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <p align="left" style="color:#C9B8A8;"><strong>MORE PROJECTS</strong></p>
 
-<p align="center"><a href="https://github.com/dreams-from-dust/AI-ML-Internship"><img src="assets/project-ai-ml-internship.svg" width="32%"/></a> <a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="assets/project-cybersecurity-portfolio.svg" width="32%"/></a><br/><a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="assets/project-command-layer-framework.svg" width="32%"/></a> <a href="https://github.com/dreams-from-dust/STQA-5th-Semester-Project"><img src="assets/project-stqa.svg" width="32%"/></a></p>
+<p align="center"><a href="https://github.com/dreams-from-dust/AI-ML-Internship"><img src="assets/project-ai-ml-internship.svg" width="40%"/></a> <a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="assets/project-cybersecurity-portfolio.svg" width="40%"/></a><br/><a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="assets/project-command-layer-framework.svg" width="40%"/></a> <a href="https://github.com/dreams-from-dust/STQA-5th-Semester-Project"><img src="assets/project-stqa.svg" width="40%"/></a></p>
 
 <br/>
 
@@ -106,30 +106,37 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <br/>
 
-<table width="100%">
-<tr>
-<th align="left" width="60%">Credential</th>
-<th align="left">Issuer</th>
-</tr>
-<tr><td>Google Cybersecurity Professional Certificate</td><td>Google / Coursera</td></tr>
-<tr><td>Foundations of Cybersecurity</td><td>Google / Coursera</td></tr>
-<tr><td>Play It Safe: Manage Security Risks</td><td>Google / Coursera</td></tr>
-<tr><td>Connect &amp; Protect: Networks &amp; Network Security</td><td>Google / Coursera</td></tr>
-<tr><td>Tools of the Trade: Linux &amp; SQL</td><td>Google / Coursera</td></tr>
-<tr><td>Assets, Threats &amp; Vulnerabilities</td><td>Google / Coursera</td></tr>
-<tr><td>Automate Cybersecurity Tasks with Python</td><td>Google / Coursera</td></tr>
-<tr><td>Sound the Alarm: Detection and Response</td><td>Google / Coursera</td></tr>
-<tr><td>Put It to Work: Prepare for Cybersecurity Jobs</td><td>Google / Coursera</td></tr>
-<tr><td>Cybersecurity Job Simulation</td><td>Mastercard</td></tr>
-<tr><td>Advanced Commands in Linux</td><td>Coursera</td></tr>
-<tr><td>Files &amp; Directories in Linux Filesystem</td><td>Coursera</td></tr>
-<tr><td>AI Fundamentals</td><td>Coursera</td></tr>
-<tr><td>14-Day AI Bootcamp</td><td>Futurepedia</td></tr>
-<tr><td>Accelerate Your Job Search with AI</td><td>Coursera</td></tr>
-<tr><td>SEO Certificate</td><td>DigiSkills.pk, Ministry of IT</td></tr>
-<tr><td>Freelancing Certificate</td><td>DigiSkills.pk, Ministry of IT</td></tr>
-<tr><td>SOFTEC'26 Software Project Competition</td><td>SOFTEC</td></tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th align="center" width="8%">#</th>
+        <th align="left" width="62%">Credential &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+        <th align="left" width="30%">Issuer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td align="center">1</td><td>Google Cybersecurity Professional Certificate</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">2</td><td>Foundations of Cybersecurity</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">3</td><td>Play It Safe: Manage Security Risks</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">4</td><td>Connect &amp; Protect: Networks &amp; Network Security</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">5</td><td>Tools of the Trade: Linux &amp; SQL</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">6</td><td>Assets, Threats &amp; Vulnerabilities</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">7</td><td>Automate Cybersecurity Tasks with Python</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">8</td><td>Sound the Alarm: Detection and Response</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">9</td><td>Put It to Work: Prepare for Cybersecurity Jobs</td><td>Google / Coursera</td></tr>
+      <tr><td align="center">10</td><td>Cybersecurity Job Simulation</td><td>Mastercard</td></tr>
+      <tr><td align="center">11</td><td>Advanced Commands in Linux</td><td>Coursera</td></tr>
+      <tr><td align="center">12</td><td>Files &amp; Directories in Linux Filesystem</td><td>Coursera</td></tr>
+      <tr><td align="center">13</td><td>AI Fundamentals</td><td>Coursera</td></tr>
+      <tr><td align="center">14</td><td>14-Day AI Bootcamp</td><td>Futurepedia</td></tr>
+      <tr><td align="center">15</td><td>Accelerate Your Job Search with AI</td><td>Coursera</td></tr>
+      <tr><td align="center">16</td><td>SEO Certificate</td><td>DigiSkills.pk, Ministry of IT</td></tr>
+      <tr><td align="center">17</td><td>Freelancing Certificate</td><td>DigiSkills.pk, Ministry of IT</td></tr>
+      <tr><td align="center">18</td><td>SOFTEC'26 Software Project Competition</td><td>SOFTEC</td></tr>
+    </tbody>
+  </table>
+</div>
 
 <br/>
 
@@ -157,12 +164,13 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <br/><br/>
 
-<table>
-<tr>
-<td style="border: 1px solid rgba(255,107,53,0.35); border-radius: 12px; padding: 6px;"><img src="https://streak-stats.demolab.com/?user=dreams-from-dust&hide_border=true&background=140D08&ring=FF6B35&fire=FFB627&currStreakLabel=F4F6FB&currStreakNum=FFB627&sideNums=F4F6FB&sideLabels=C9B8A8&dates=C9B8A8" height="180"/></td>
-<td style="border: 1px solid rgba(255,107,53,0.35); border-radius: 12px; padding: 6px;"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=140D08&title_color=FFB627&text_color=EDE2D6" height="180"/></td>
-</tr>
-</table>
+<div align="center">
+  <!-- GitHub Streak Stats (Uses Poppins by default, forced transparent background) -->
+  <img src="https://streak-stats.demolab.com/?user=dreams-from-dust&theme=dark&hide_border=true&background=00000000&ring=FF6B35&fire=FFB627&currStreakLabel=F4F6FB&currStreakNum=FFB627&sideNums=F4F6FB&sideLabels=C9B8A8&dates=C9B8A8" height="150" alt="GitHub Streak Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Top Languages Card (Forced Poppins, matched height, transparent background) -->
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=00000000&title_color=FFB627&text_color=EDE2D6&font_family=Poppins" height="150" alt="Top Languages" />
+</div>
 
 <br/><br/>
 
