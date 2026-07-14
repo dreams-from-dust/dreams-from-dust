@@ -98,7 +98,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <p align="left" style="color:#C9B8A8;"><strong>MORE PROJECTS</strong></p>
 
-<p align="center"><a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="assets/project-cybersecurity-portfolio.svg" width="40%"/></a> <a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="assets/project-command-layer-framework.svg" width="40%"/></a><br/> <a href="https://github.com/dreams-from-dust/AI-ML-Internship"><img src="assets/project-ai-ml-internship.svg" width="40%"/></a> <a href="https://github.com/dreams-from-dust/STQA-5th-Semester-Project"><img src="assets/project-stqa.svg" width="40%"/></a></p>
+<p align="center"><a href="https://github.com/dreams-from-dust/cybersecurity-portfolio"><img src="assets/project-cybersecurity-portfolio.svg" width="45%"/></a> <a href="https://github.com/dreams-from-dust/command-layer-framework"><img src="assets/project-command-layer-framework.svg" width="45%"/></a><br/> <a href="https://github.com/dreams-from-dust/AI-ML-Internship"><img src="assets/project-ai-ml-internship.svg" width="45%"/></a> <a href="https://github.com/dreams-from-dust/STQA-5th-Semester-Project"><img src="assets/project-stqa.svg" width="45%"/></a></p>
 
 <br/>
 
@@ -165,12 +165,9 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 <br/><br/>
 
 <div align="center">
-  <!-- GitHub Streak Stats (Uses Poppins by default, forced transparent background) -->
-  <img src="https://streak-stats.demolab.com/?user=dreams-from-dust&theme=dark&hide_border=true&background=00000000&ring=FF6B35&fire=FFB627&currStreakLabel=F4F6FB&currStreakNum=FFB627&sideNums=F4F6FB&sideLabels=C9B8A8&dates=C9B8A8" height="150" alt="GitHub Streak Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Top Languages Card (Forced Poppins, matched height, transparent background) -->
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=00000000&title_color=FFB627&text_color=EDE2D6&font_family=Poppins" height="150" alt="Top Languages" />
-</div>
+
+  <!-- Maximum-scale Top Languages Card (Full-width responsive scaling, Poppins, transparent background) -->
+<img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dreams-from-dust&layout=compact&hide_border=true&bg_color=00000000&title_color=FFB627&text_color=EDE2D6&font_family=Poppins" width="50%" style="max-width: 550px; display: block; margin: 0 auto;" alt="Top Languages" />
 
 <br/><br/>
 
@@ -186,13 +183,7 @@ Innovative IT undergraduate specializing in intelligent, secure software systems
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 12px; padding: 12px 20px;"><a href="https://dreamsfromdust.netlify.app/"><img src="assets/dreamsfromdust.svg" width="45" alt="Portfolio"/></a></td>
-<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 12px; padding: 12px 20px;"><a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="45" alt="LinkedIn"/></a></td>
-<td align="center" style="border: 1px solid rgba(255,107,53,0.4); border-radius: 12px; padding: 12px 20px;"><a href="mailto:dreamsfromdust01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="45" alt="Email"/></a></td>
-</tr>
-</table>
+<br/><br/><p align="center"><a href="https://dreamsfromdust.netlify.app/"><img src="assets/dreamsfromdust.svg" width="50" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/areej-fatima-it"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:dreamsfromdust01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email" /></a></p>
 
 <br/><br/>
 
