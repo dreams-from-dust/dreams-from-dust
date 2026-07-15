@@ -27,7 +27,7 @@
 </td>
 <td width="40%" valign="top">
 
-Innovative IT undergraduate specializing in intelligent, secure software systems, spanning reinforcement-learning agents, full-stack platforms, and zero-trust security architecture.
+Specializing in intelligent, secure software systems, spanning reinforcement-learning agents, full-stack platforms, and zero-trust security architecture.
 
 </td>
 </tr>
