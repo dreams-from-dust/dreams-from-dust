@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=FFB627&center=true&vCenter=true&width=720&lines=AI+%26+Full-Stack+Software+Engineer+%7C+LLM+Systems+%26+Cybersecurity;Engineering+RAG+pipelines%2C+RL+agents+%26+production+web+apps;Google+AI+%26+Cybersecurity+Certified+%7C+SOFTEC'26+%7C+PYIIC'26+Top+2" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=FFB627&center=true&vCenter=true&width=720&lines=AI+%26+Full-Stack+Engineer+%7C+Cybersecurity+%7C+IT+Scholar;Engineering+RAG+pipelines%2C+RL+agents+%26+scalable+web+apps;Google+AI+%26+Cybersecurity+Certified+%7C+SOFTEC'26+%7C+PYIIC'26+Top+2" alt="tagline"/>
 
 </div>
 
@@ -18,11 +18,11 @@
 <tr>
 <td width="55%" valign="top">
 
-**Role:** AI &amp; Full-Stack Software Engineer <br>
+**Role:** AI &amp; Full-Stack Engineer <br>
 **Location:** Layyah, Punjab, Pakistan (Open to Global Remote) <br>
 **Education:** BS Information Technology, University of Layyah (2023 - 2027) <br>
 **Academic Standing:** CGPA 3.94 / 4.00 <br>
-**Recognition:** WONTX AI Top 2 University Research Selection (PYIIC 2026) · SOFTEC'26 Competitor (Incept Bionic) · Best Award (DevelopersHub Corp.)
+**Recognition:** WONTX AI Top 2 University Research Selection (PYIIC 2026) · SOFTEC'26 Competitor (Incept Bionic)
 
 </td>
 <td width="45%" valign="top">
