@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=FFB627&center=true&vCenter=true&width=720&lines=AI+%26+Full-Stack+Engineer+%7C+Cybersecurity+%7C+IT+Scholar;Engineering+RAG+pipelines%2C+RL+agents+%26+scalable+web+apps;Google+AI+%26+Cybersecurity+Certified+%7C+SOFTEC'26+%7C+PYIIC'26+Top+2" alt="tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3200&pause=900&color=FFB627&center=true&vCenter=true&width=720&lines=AI+%26+Full-Stack+Engineer+%7C+Cybersecurity+%7C+IT+Scholar;Engineering+RAG+pipelines%2C+RL+agents+%26+scalable+web+apps;Google+AI+%26+Cybersecurity+Certified+%7C+SOFTEC'26+%7C+PYIIC'26+Selected" alt="tagline"/>
 
 </div>
 
@@ -22,7 +22,7 @@
 **Location:** Layyah, Punjab, Pakistan (Open to Global Remote) <br>
 **Education:** BS Information Technology, University of Layyah (2023 - 2027) <br>
 **Academic Standing:** CGPA 3.94 / 4.00 <br>
-**Recognition:** WONTX AI Top 2 University Research Selection (PYIIC 2026) · SOFTEC'26 Competitor (Incept Bionic)
+**Recognition:** WONTX AI University Selection (PYIIC 2026) · SOFTEC'26 Competitor (Incept Bionic)
 
 </td>
 <td width="45%" valign="top">
@@ -79,7 +79,7 @@ Final-year BS IT scholar specializing in applied AI/LLM systems, full-stack web 
 </tr>
 <tr>
 <td valign="top"><strong><a href="https://github.com/dreams-from-dust/AI_model_wontx">WONTX AI</a></strong><br/><sub>Zero-Trust Behavioral Biometrics</sub></td>
-<td valign="top">Autonomous Q-Learning desktop agent profiling real-time keystroke dwell/flight times and mouse velocity/jitter to auto-lock workstations upon intruder detection. Selected among Top 2 University of Layyah research projects for Punjab Youth Innovation &amp; Incubation Competition 2026.</td>
+<td valign="top">Autonomous Q-Learning desktop agent profiling real-time keystroke dwell/flight times and mouse velocity/jitter to auto-lock workstations upon intruder detection. Selected from the University of Layyah for the Punjab Youth Innovation &amp; Incubation Competition 2026.</td>
 <td valign="top">Python · Q-Learning · Pynput · NumPy · Pandas · CustomTkinter</td>
 </tr>
 <tr>
